@@ -31,6 +31,18 @@ Android Studio
 
 ## 目录介绍
 
+#### `.github`: github action 流水线
+
+#### `devops`: 自动化相关目录，如jenkins流水线
+
+#### `test`: 单元测试和自动化测试
+
+#### `boat-house-android-proj` Andorid studio 项目目录
+
+#### 代码目录结构
+
+`boat-house-android-proj\app\src\main\java\com\idcf\boathouse`
+
 * base Activity & Fragment Base类
 * mvp MVP的Base类都在这里面
 * presentation 主要包，其中的Contract类是定义View和Presenter接口的地方
